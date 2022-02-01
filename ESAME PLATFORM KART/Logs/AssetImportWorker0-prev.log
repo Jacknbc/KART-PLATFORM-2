@@ -1,0 +1,330 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/giacomoportoghese/Desktop/NABA/3 ANNO/KART PLATFORM ALINOVI/ESAME PLATFORM KART
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52162
+Successfully changed project path to: /Users/giacomoportoghese/Desktop/NABA/3 ANNO/KART PLATFORM ALINOVI/ESAME PLATFORM KART
+/Users/giacomoportoghese/Desktop/NABA/3 ANNO/KART PLATFORM ALINOVI/ESAME PLATFORM KART
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/giacomoportoghese/Desktop/NABA/3 ANNO/KART PLATFORM ALINOVI/ESAME PLATFORM KART/Assets
+GfxDevice: creating device client; threaded=0
+2022-01-27 17:11:14.996 Unity[7786:132279] iMac preferred device: AMD Radeon R9 M395 (high power)
+2022-01-27 17:11:14.996 Unity[7786:132279] Metal devices available: 1
+2022-01-27 17:11:14.996 Unity[7786:132279] 0: AMD Radeon R9 M395 (high power)
+2022-01-27 17:11:14.997 Unity[7786:132279] Using device AMD Radeon R9 M395 (high power)
+Initializing Metal device caps: AMD Radeon R9 M395
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56786
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000550 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 29.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.953 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.253 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1397 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.1 MB.
+System memory in use after: 209.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1837.
+Total: 2.188226 ms (FindLiveObjects: 0.173768 ms CreateObjectMapping: 0.045894 ms MarkObjects: 1.870668 ms  DeleteObjects: 0.096884 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/DavidJalbert/TinyCarController/Example/Example.unity
+  artifactKey: Guid(5e05166089fe5754098ffc2f08832fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DavidJalbert/TinyCarController/Example/Example.unity using Guid(5e05166089fe5754098ffc2f08832fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1ed8cbda5b8a181c79e97acf7613ee') in 0.012601 seconds
+  Import took 0.014853 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.209 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.1 MB.
+System memory in use after: 209.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1840.
+Total: 1.758659 ms (FindLiveObjects: 0.158754 ms CreateObjectMapping: 0.042152 ms MarkObjects: 1.497240 ms  DeleteObjects: 0.059469 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001589 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.3 MB.
+System memory in use after: 209.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 1.752050 ms (FindLiveObjects: 0.154437 ms CreateObjectMapping: 0.044545 ms MarkObjects: 1.493925 ms  DeleteObjects: 0.058213 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.5 MB.
+System memory in use after: 209.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1846.
+Total: 1.743477 ms (FindLiveObjects: 0.150352 ms CreateObjectMapping: 0.040816 ms MarkObjects: 1.499925 ms  DeleteObjects: 0.051517 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2403.108248 seconds.
+  path: Assets/DavidJalbert/TinyCarController/Example/Models/Pickup/Meshes/pickup.fbx
+  artifactKey: Guid(d89ca83097cc2a845a22d7286613552a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DavidJalbert/TinyCarController/Example/Models/Pickup/Meshes/pickup.fbx using Guid(d89ca83097cc2a845a22d7286613552a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edffde0c2152989f897c479d616bebf5') in 0.610856 seconds
+  Import took 0.613429 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001610 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 218.3 MB.
+System memory in use after: 218.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1859.
+Total: 2.076108 ms (FindLiveObjects: 0.164227 ms CreateObjectMapping: 0.048164 ms MarkObjects: 1.801238 ms  DeleteObjects: 0.061363 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 662.479930 seconds.
+  path: Assets/DavidJalbert/TinyCarController/Example/Materials/Fire.mat
+  artifactKey: Guid(1ec8565688615474c958956a910043a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DavidJalbert/TinyCarController/Example/Materials/Fire.mat using Guid(1ec8565688615474c958956a910043a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f0cfb11ba7a85ee29d25058a24b5f0') in 0.289219 seconds
+  Import took 0.291860 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.9 MB.
+System memory in use after: 223.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 1.918261 ms (FindLiveObjects: 0.219153 ms CreateObjectMapping: 0.067316 ms MarkObjects: 1.577749 ms  DeleteObjects: 0.052805 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 531.955362 seconds.
+  path: Assets/SCENA GIUSTA SIMOCAZZO.unity
+  artifactKey: Guid(0c2e66276ec78488b9cabf8c0fa855ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SCENA GIUSTA SIMOCAZZO.unity using Guid(0c2e66276ec78488b9cabf8c0fa855ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5005c1288b5fee993561882efd56a04a') in 0.012302 seconds
+  Import took 0.014891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.976619 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ce9331632adc44604c1f2a95092326') in 0.001706 seconds
+  Import took 0.004630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.873089 seconds.
+  path: Assets/DavidJalbert/TinyCarController/Example/Example.unity
+  artifactKey: Guid(5e05166089fe5754098ffc2f08832fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DavidJalbert/TinyCarController/Example/Example.unity using Guid(5e05166089fe5754098ffc2f08832fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55778a0600fb73f764d5ba575998fb5') in 0.002395 seconds
+  Import took 0.004870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000866 seconds.
+  path: Assets/DavidJalbert/TinyCarController/Example/Example.unity
+  artifactKey: Guid(5e05166089fe5754098ffc2f08832fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DavidJalbert/TinyCarController/Example/Example.unity using Guid(5e05166089fe5754098ffc2f08832fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55778a0600fb73f764d5ba575998fb5') in 0.001257 seconds
+  Import took 0.004093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 347.704451 seconds.
+  path: Assets/SIMACAZZOKART
+  artifactKey: Guid(d3fb99bc457104c57be8b2e24894aa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SIMACAZZOKART using Guid(d3fb99bc457104c57be8b2e24894aa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ac3e5f7aafc256d909c513c2e1db95') in 0.003156 seconds
+  Import took 0.006329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.169057 seconds.
+  path: Assets/SIMACAZZOKART/Assets
+  artifactKey: Guid(a2453c4558aa343f8811964976757f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SIMACAZZOKART/Assets using Guid(a2453c4558aa343f8811964976757f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8456f6bea43054111ef9849dde650a3e') in 0.002183 seconds
+  Import took 0.004650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/SIMACAZZOKART/Assets
+  artifactKey: Guid(a2453c4558aa343f8811964976757f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SIMACAZZOKART/Assets using Guid(a2453c4558aa343f8811964976757f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8456f6bea43054111ef9849dde650a3e') in 0.001584 seconds
+  Import took 0.004347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083800 seconds.
+  path: Assets/SIMACAZZOKART/Assets/HAMSTER MATO.obj
+  artifactKey: Guid(fdf16ed7d422c4cc8b10a38892e5cf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SIMACAZZOKART/Assets/HAMSTER MATO.obj using Guid(fdf16ed7d422c4cc8b10a38892e5cf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49bf8616a5eb07b813c2423ef7b33fa1') in 7.920206 seconds
+  Import took 7.943906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.759869 seconds.
+  path: Assets/SIMACAZZOKART/Assets/SCENA GIUSTA SIMOCAZZO.unity
+  artifactKey: Guid(84807767e211848d88267f375fd16992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SIMACAZZOKART/Assets/SCENA GIUSTA SIMOCAZZO.unity using Guid(84807767e211848d88267f375fd16992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51062e1f1c4388122706fb82b2b37935') in 0.013785 seconds
+  Import took 0.016319 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 246.7 MB.
+System memory in use after: 246.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1900.
+Total: 1.887332 ms (FindLiveObjects: 0.171036 ms CreateObjectMapping: 0.048033 ms MarkObjects: 1.610989 ms  DeleteObjects: 0.055967 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2031.536578 seconds.
+  path: Assets/DavidJalbert/TinyCarController/documentation.pdf
+  artifactKey: Guid(24edb4de2ef35524bb4557861dbd375e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DavidJalbert/TinyCarController/documentation.pdf using Guid(24edb4de2ef35524bb4557861dbd375e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a07fd7667c2ee81ea7f6b2859551fa6') in 0.310924 seconds
+  Import took 0.315265 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001646 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.2 MB.
+System memory in use after: 251.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1903.
+Total: 3.718108 ms (FindLiveObjects: 0.188593 ms CreateObjectMapping: 0.051174 ms MarkObjects: 3.384769 ms  DeleteObjects: 0.092062 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 251.4 MB.
+System memory in use after: 251.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1906.
+Total: 3.029768 ms (FindLiveObjects: 0.224400 ms CreateObjectMapping: 0.089564 ms MarkObjects: 2.626096 ms  DeleteObjects: 0.087641 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

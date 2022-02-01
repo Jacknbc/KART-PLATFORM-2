@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{32B8A83C-100A-6DCF-E816-50C4C5BA917B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DavidJalbert/TinyCarController/Components/TinyCarController.cs">
+    <Files>
+      <File FileName="Assets/DavidJalbert/TinyCarController/Components/TinyCarCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/DavidJalbert/TinyCarController/Components/TinyCarController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ESAME PLATFORM KART" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="DavidJalbert" expanded="True">
+                <Node name="TinyCarController" expanded="True">
+                  <Node name="Components" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ad2a7cb-3276-4b47-b9f9-220912fe76d8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
