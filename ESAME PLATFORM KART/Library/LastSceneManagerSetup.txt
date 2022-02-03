@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/DavidJalbert/TinyCarController/Example/Example.unity
+- path: Assets/SCENE/TEST 1 BASE.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
